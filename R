@@ -1,3 +1,4 @@
-us=s33
-ca=u.c44
-uk=wx1
+us=kysb
+ca=o1g
+uk=u.o1g
+au=s33
